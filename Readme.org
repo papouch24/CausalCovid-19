@@ -6,12 +6,18 @@ Täglich ändert sich der Wissensstand und der Stand unserer Überlegungen und E
 Die Ereignisse überstürzen sich und das erschwert sorgfältige randomisierte Studien, um Mortalität und geeignete medizinische Interventionen kontrolliert zu untersuchen.
 Wir sind also bisher vor allem auf Beobachtungsdaten beschränkt, und es ist von höchster Wichtigkeit, diese Beobachtungen systematisch zu erfassen und richtig zu beurteilen.
 
+The corona crisis is having major impacts onto our lives right now. COVID-19 is affecting our minds, consuming our thoughts, and changing our daily habits in ways unimaginable before. Extreme precautions have been and are being taken to prevent the spread of virus. Everyday, we are learning more and more about this new ennemy. And every day we are having to re-evaluate our [previoous] considerations and our projections. But the speed at which COVID-19 related events are happening makes it difficult to conduct careful randomized studies: to investigate mortality [rate] and appropriate medical interventions in a controlled manner. That is why we have been - till the present moment - limited mainly to observational data. It is of the utmost importance to systematically record these observations and to assess them correctly.
+
 Die Kausalitätstheorie kann kausale Effekte auch bei Beobachtungsstudien untersuchen, wenn bestimmte Bedingungen erfüllt sind.
 Beobachtungsstudien sind Datenerhebungen ohne experimentelle Kontrolle, beispielsweise in der gegenwärtigen Corona-Krise, und im Unterschied zu randomisierten Doppel-Blind-Versuchsreihen, wie sie beispielsweise für pharmazeutische Zulassungsverfahren benötigt werden.
 Experimente sind der goldene Standard zur Untersuchung von Wirkungen und Nebenwirkungen. 
 Doch leider sind sie nicht immer möglich, wie uns diese Pandemie sehr deutlich vor Augen führt.
 
+The theory of causality can be an appropriate theoretical tool to investigate causal effects in observational studies, when certain conditions are met. Observational studies are data collections without experimental control, which is now the case with the current corona crisis. In contrast, approval procedures for the pharmaceutical industry requires randomised double-blind experiments. Experiments are the golden standard for investigating effects and side effects.Unfortunately, however, they are not always possible, and this pandemic has made that already abundantly clear.
+
 Ich und meine Kollegen forschten in diesem Bereich und sind der Überzeugung, dass in der heutigen Situation kausale Inferenzstatistik helfen kann, entscheidende aber noch immer offenstehende Fragen für die Allgemeinheit, Politiker und Wissenschaftler zu klären.
+
+My colleagues and I, who are doing research in this area, are convinced that in the current situation causal inferential statistics can help clarify crucial, but still open, questions for the general public, politicians and scientists.
 
 
 ** Bitte um kritische Prüfung, Verbesserung und Mitarbeit
